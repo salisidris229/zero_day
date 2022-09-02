@@ -1,1 +1,1 @@
-this file is mandatory in project
+first School project
